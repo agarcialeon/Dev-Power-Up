@@ -1,10 +1,10 @@
 # Educational-Resources
 Under construction.
 
-# Table of Contents
+## Table of Contents
 * Android
 
-## Android
+### Android
 [Awesome Android](https://github.com/yongjhih/awesome-android-awesomeness "Awesome Android Github's Page")
 [Awesome Android UI/UX](https://github.com/wasabeef/awesome-android-ui "Awesome Android UI/UX Github's Page")
 [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database "Android Debug Database Github's Page")
