@@ -27,4 +27,6 @@ Under construction.
 * [U3D](https://github.com/DragonBox/u3d "Cross-platform Unity3D tools")
 * [Github for Unity3D](https://unity.github.com/ "Github plugin for Unity3d")
 * [Other Github Repos](https://forum.unity.com/threads/useful-github-repos-for-unity.258224/ "Other Github Repos")
+* [More Github Repos](https://unitycoder.com/blog/2016/03/08/best-unity-github-repositories/ "More Github Repos")
+
 
