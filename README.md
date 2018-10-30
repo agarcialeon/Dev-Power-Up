@@ -4,6 +4,7 @@ Under construction.
 ## Table of Contents
 * Android
 * Unity3D
+* Powershell
 
 ### Android
 * [Awesome Android](https://github.com/yongjhih/awesome-android-awesomeness "Awesome Android Github's Page")
@@ -45,3 +46,9 @@ Under construction.
 * [Awesome Unity Free](https://github.com/netpyoung/awesome-unity-free "A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.")
 * [Other Github Repos](https://forum.unity.com/threads/useful-github-repos-for-unity.258224/ "Other Github Repos")
 * [More Github Repos](https://unitycoder.com/blog/2016/03/08/best-unity-github-repositories/ "More Github Repos")
+
+### Powershell
+* [Pester](https://github.com/pester/Pester "Pester Github Page")
+* [PlatyPS](https://github.com/PowerShell/platyPS "platyPS Github Page")
+* [Plaster](https://github.com/PowerShell/Plaster "Plaster Github Page")
+
