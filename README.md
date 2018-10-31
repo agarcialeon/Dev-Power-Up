@@ -82,7 +82,7 @@ Under construction.
 * [FPS Sample Project](https://github.com/Unity-Technologies/FPSSample "A first person multiplayer shooter example project in Unity")
 * [Job System Cookbook](https://github.com/stella3d/job-system-cookbook "Examples of using the C# Job System in Unity 2018 ")
 * [Awesome Unity](https://github.com/RyanNielson/awesome-unity "Awesome Unity Github Page")
-* [Awesome Unity Free](https://github.com/netpyoung/awesome-unity-free "A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.")
+* [Awesome Unity Free](https://github.com/netpyoung/awesome-unity-free "A community driven list of useful Unity Game Engine 'FREE' packages, libraries and others.")
 * [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection "A maintained collection of useful & free unity scripts / library's / plugins and extensions.")
 * [Other Github Repos](https://forum.unity.com/threads/useful-github-repos-for-unity.258224/ "Other Github Repos")
 * [More Github Repos](https://unitycoder.com/blog/2016/03/08/best-unity-github-repositories/ "More Github Repos")
