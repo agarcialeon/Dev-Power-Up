@@ -17,7 +17,7 @@ Under construction.
 * [Stetho](https://github.com/facebook/stetho "Facebook's Stetho Github Page")
 * [Guava](https://github.com/google/guava "Google Core Libraries for Java Github's Page")
 
-### .NET
+### .NET / .NET Core
 * [Dapper](https://github.com/StackExchange/Dapper "A simple object mapper for .Net.")
 * [Blazor](https://github.com/aspnet/Blazor "an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.")
 * [dnSpy](https://github.com/0xd4d/dnSpy ".NET debugger and assembly editor.")
@@ -30,6 +30,31 @@ Under construction.
 * [Polly](https://github.com/App-vNext/Polly "Resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.")
 * [Hangfire](https://github.com/HangfireIO/Hangfire "An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required.")
 * [ML.NET](https://github.com/dotnet/machinelearning "An open source and cross-platform machine learning framework for .NET.")
+* [FluentValidation](https://github.com/JeremySkinner/FluentValidation "A popular .NET validation for building strongly-typed validation rules.")
+* [MSBuild](https://github.com/Microsoft/msbuild "The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.")
+* [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet "Powerful .NET library for benchmarking.")
+* [NLog](https://github.com/NLog/NLog "Advanced and Structured Logging for Various .NET Platforms.")
+* [LiteDB](https://github.com/mbdavid/LiteDB "A .NET NoSQL Document Store in a single data file.")
+* [Accord.NET](https://github.com/accord-net/framework "Machine learning, computer vision, statistics and general scientific computing for .NET.")
+* [Refit](https://github.com/reactiveui/refit "The automatic type-safe REST library for Xamarin and .NET.")
+* [Electro.NET](https://github.com/ElectronNET/Electron.NET "Build cross platform desktop apps with ASP.NET NET Core.")
+* [Fody](https://github.com/Fody/Fody "Extensible tool for weaving .net assemblies.")
+* [MediatR](https://github.com/jbogard/MediatR "Simple, unambitious mediator implementation in .NET.")
+* [Autofac](https://github.com/autofac/Autofac "An addictive .NET IoC container.")
+* [Serilog](https://github.com/serilog/serilog "Simple .NET logging with fully-structured events.")
+* [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp "TensorFlow API for .NET languages.")
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Unity3D
 
