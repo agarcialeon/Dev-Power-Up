@@ -69,18 +69,12 @@ Under construction.
 * [Autofac](https://github.com/autofac/Autofac "An addictive .NET IoC container.")
 * [Serilog](https://github.com/serilog/serilog "Simple .NET logging with fully-structured events.")
 * [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp "TensorFlow API for .NET languages.")
-
-
-
-
-
-
-
-
-
-
-
-
+* [Ninject](https://github.com/ninject/Ninject "The ninja of .NET dependency injectors.")
+* [SQLite-net](https://github.com/praeclarum/sqlite-net "Simple, powerful, cross-platform SQLite client and ORM for .NET.")
+* [CAP](https://github.com/dotnetcore/CAP "CAP is a library based on .Net standard, which is a solution to deal with distributed transactions, also has the function of EventBus, it is lightweight, easy to use, and efficiently.")
+* [ConfuserEx](https://github.com/yck1509/ConfuserEx "An open-source, free protector for .NET applications.")
+* [DotNetty](https://github.com/Azure/DotNetty "A port of Netty, event-driven asynchronous network application framework.")
+* [Eto](https://github.com/picoe/Eto "Cross platform GUI framework for desktop and mobile applications in .NET.")
 
 ### Unity3D
 
