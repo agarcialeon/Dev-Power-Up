@@ -3,6 +3,7 @@ Under construction.
 
 ## Table of Contents
 * Android
+* .NET
 * Unity3D
 * Powershell
 
@@ -41,6 +42,20 @@ Under construction.
 * [Awesome Android](https://github.com/yongjhih/awesome-android-awesomeness "Awesome Android Github's Page")
 * [Awesome Android UI/UX](https://github.com/wasabeef/awesome-android-ui "Awesome Android UI/UX Github's Page")
 * [Android Best Practices](https://github.com/futurice/android-best-practices "Do's and Don'ts for Android development, by Futurice developers")
+
+### .NET
+* [Dapper](https://github.com/StackExchange/Dapper "A simple object mapper for .Net.")
+* [Blazor](https://github.com/aspnet/Blazor "an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.")
+* [dnSpy](https://github.com/0xd4d/dnSpy ".NET debugger and assembly editor.")
+* [ILSpy](https://github.com/icsharpcode/ILSpy ".NET Decompiler.")
+* [Json.NET](https://github.com/JamesNK/Newtonsoft.Json "A popular high-performance JSON framework for .NET.")
+* [RestSharp](https://github.com/restsharp/RestSharp "Simple REST and HTTP API Client for .NET.")
+* [AutoMapper](https://github.com/AutoMapper/AutoMapper "A convention-based object-object mapper in .NET.")
+* [Avalonia](https://github.com/AvaloniaUI/Avalonia "A multi-platform .NET UI framework.")
+* [Material Design In Xaml Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit "Google's Material Design in XAML & WPF, for C# & VB.Net.")
+* [Polly](https://github.com/App-vNext/Polly "Resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.")
+* [Hangfire](https://github.com/HangfireIO/Hangfire "An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required.")
+* [ML.NET](https://github.com/dotnet/machinelearning "An open source and cross-platform machine learning framework for .NET.")
 
 ### Unity3D
 
