@@ -79,32 +79,69 @@ Under construction.
 ### Unity3D
 
 #### Libraries
+
+##### Serialization
 * [JSON.NET for Unity3D](https://github.com/SaladLab/Json.Net.Unity3D "JSON.NET.Unity3D Github's Page")
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter "Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity.")
 * [UTF8Json](https://github.com/neuecc/Utf8Json "Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).")
 * [FullSerializer](https://github.com/jacobdufault/fullserializer "A robust JSON serialization framework that just works with support for all major Unity export platforms.")
-* [Procedural Toolkit](https://github.com/Syomus/ProceduralToolkit "Procedural generation library for Unity")
-* [Harmony](https://github.com/pardeike/Harmony "A library for patching, replacing and decorating .NET and Mono methods during runtime")
+
+##### Physics
+* [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d "A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3D.")
+* [Unity Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics "A prototype of a C# math library providing vector types and math functions with a shader like syntax.")
+
+##### AI (Artificial Intelligence)
+* [Pathfinding](https://github.com/antonpantev/pathfinding "Find paths in Unity Tilemaps with A* Search.")
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai "A Unity library for common movement AI.")
 
+##### Networking
+* [Networker](https://github.com/MarkioE/Networker "A simple to use TCP and UDP networking library for .NET. Compatible with Unity.")
+
+##### Localization (L18n)
+* [Language](https://github.com/FarrokhGames/Language "An easy-to-use localization solution for Unity3D.")
+
+
+##### Patterns
+* [Disruptor-Unity3D](https://github.com/dave-hillier/disruptor-unity3d "Basic implementation of Disruptor for Unity3d.")
+
+
+##### Misc.
+* [Procedural Toolkit](https://github.com/Syomus/ProceduralToolkit "Procedural generation library for Unity")
+* [Harmony](https://github.com/pardeike/Harmony "A library for patching, replacing and decorating .NET and Mono methods during runtime")
+
 #### Frameworks
+
+##### Application Development Architectures
 * [Entitas](https://github.com/sschmid/Entitas-CSharp "Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity.")
 * [Zenject](https://github.com/svermeulen/Zenject "Dependency Injection Framework for Unity3D.")
 * [UniRx](https://github.com/neuecc/UniRx "Reactive Extensions for Unity.")
 * [QFramework](https://github.com/liangxiegame/QFramework "RYour first K.I.S.S Unity 3D Framework.")
-* [Virtual Reality Toolkit](https://github.com/thestonefox/VRTK "A productive VR Toolkit for rapidly building VR solutions in Unity3d.")
-* [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "Microsoft Mixed Reality Toolkit Github Page")
+
+##### Augmented Reality
+* [ARCore Unity SDK](https://github.com/google-ar/arcore-unity-sdk "ARCore SDK for Unity.")
+
+##### Virtual Reality
+* [VRTK (Virtual Reality Toolkit)](https://github.com/thestonefox/VRTK "A productive VR Toolkit for rapidly building VR solutions in Unity3d.")
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR "A virtual reality interaction system for unity based on physics.")
+* [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk "Google VR SDK for Unity.")
+* [OVRLay](https://github.com/benotter/OVRLay "An easy-to-use toolkit for developing OpenVR Overlays with Unity Engine!")
+* [MoonMotion](https://github.com/MoonMotionProject/MoonMotion "Free and open source toolkit for VR locomotion.")
+
+
+##### Mixed Reality
+* [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity "Microsoft Mixed Reality Toolkit Github Page")
 * [Editor XR](https://github.com/Unity-Technologies/EditorXR "Author XR in XR.")
-* [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk "Google VR SDK for Unity ")
+* [XRTK (Mixed Reality Toolkit)](https://github.com/XRTK/core "The Mixed Reality Framework's core interface contracts, services, and utilities.")
+
+##### Others
 * [AI4Animation](https://github.com/sebastianstarke/AI4Animation "Character Animation in Unity 3D using Deep Learning and Artificial Intelligence")
 * [Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework "A flexible and modular Node Editor Framework for creating node based displays and editors in Unity ")
-* [ARCore Unity SDK](https://github.com/google-ar/arcore-unity-sdk "ARCore SDK for Unity.")
 
 #### Plugins
 * [Github for Unity3D](https://unity.github.com/ "Github plugin for Unity3d")
 * [Google Play Games](https://github.com/playgameservices/play-games-plugin-for-unity "Google Play Games plugin for Unity.")
 * [ShaderLabVS](https://github.com/wudixiaop/ShaderlabVS "ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming.")
+* [NewtonUnityPlugin](https://github.com/svenberra/NewtonUnityPlugin "A managed plugin for Unity 3D that allows you to use the Newton Dynamics physics engine.")
 
 #### Utilities / Tools
 * [Scriptable Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline "Designed to give artists and developers the tools they need to create modern, high-fidelity graphics in Unity.")
@@ -121,8 +158,35 @@ Under construction.
 * [TouchScript](https://github.com/TouchScript/TouchScript "Complete multi-touch solution for Unity: iOS, Android, Windows, TUIO.")
 * [UnitySteer](https://github.com/ricardojmendez/UnitySteer "Gestures and input handling made sane for Unity.")
 * [TouchKit](https://github.com/prime31/TouchKit "Steering, obstacle avoidance and path following behaviors for the Unity Game Engine.")
-* [InControl](https://github.com/pbhogan/InControl "An input manager for Unity that tames the cross-platform controller beast. (Discontinued)")
-* [Unity Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics "A prototype of a C# math library providing vector types and math functions with a shader like syntax.")
+* [InControl](https://github.com/pbhogan/InControl "An input manager for Unity that tames the cross-platform controller beast.") (Discontinued)
+* [UI Shapes Kit](https://github.com/thisotherthing/ui-shapes-kit "Procedural shapes for Unity UI.")
+* [Shapes2D](https://github.com/all-iver/shapes2d "Make simple art assets quickly in Unity.")
+* [ShapeRenderer](https://github.com/epezent/ShapeRenderer "")
+* [PixelSpriteGenerator-Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity "A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.")
+* [Pixel Perfect Retro Camera](https://github.com/wolv-interactive/Pixel-Perfect-Retro-Camera "Pixel perfect retro camera system for Unity")
+* [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer "ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.")
+* [SpriteAnimation](https://github.com/FarrokhGames/SpriteAnimation "A Unity-based sprite animator for simple and advanced animation setups.")
+* [Inventory](https://github.com/FarrokhGames/Inventory "A Diablo 2-style inventory system for Unity3D.")
+* [UnityIconCustomizer](https://github.com/makoto-unity/UnityIconCustomizer "You can customize your app icon with this. Like adding version number, 'BETA' and so on.")
+* [AutoIconBuilder](https://github.com/negipoyoc/UnityAutoIconBuilder "")
+* [ReorderableListExample](https://github.com/valyard/ReorderableListExample "Example project for UnityEditorInternal.ReorderableList in Unity 4.5")
+* [TMP_RectVisualizer](https://github.com/baba-s/TMP_RectVisualizer "The size of Text and TextMesh Pro can be visualized on game screen.")
+* [ECS-Octree](https://github.com/Antypodish/ECS-Octree "ECS based octree.")
+* [Flurry-Unity3D](https://github.com/Majchrzak/Flurry-Unity-3D "Flurry iOS and Android plugin for Unity 3D. (Analytics)")
+* [Unity.NetCore](https://github.com/Chavoshi/Unity.NetCore "")
+* [PlatformerRails](https://github.com/FriendSea/PlatformerRails "Character Controller for 2.5D Platformer on Unity") - Character Controller for 2.5D Platformer on Unity
+* [SimpleIKSolver](https://github.com/Unity-Technologies/SimpleIKSolver "")
+* [PVTUT (Procedural Virtual Texture with Unity Terrain)](https://github.com/ACskyline/PVTUT "Procedural Virtual Texture with Unity Terrain")
+* [Unity Sprite Cutter](https://github.com/sabikku/unity-sprite-cutter "Simple solution for cutting sprites in runtime.")
+* [MouseFlight](https://github.com/brihernandez/MouseFlight "War Thunder style mouse flight controls for aircraft.")
+* [uGUI-Hypertext](https://github.com/setchi/uGUI-Hypertext "Hypertext for uGUI.")
+* [Ngx](https://github.com/keijiro/Ngx "Neural network based visual generator and mixer.")
+* [Unity Package Unpacker (UPU)](https://github.com/derFunk/UPU "Unitypackage Unpacker.")
+* [Unity Dark Theme Patch](https://github.com/ejlv/UnityDarkThemePatch "Patch that switches Unity theme from light to dark.")
+* [UChart](https://github.com/springd5211/UChart "Data chart/data graph for Unity.")
+* [AssetStudio](https://github.com/RaduMC/AssetStudio "AssetStudio is an independent tool for exploring, extracting and exporting assets.")
+* [XTween](https://github.com/Toki-Labs/XTween "Tweener for Unity")
+* [Scatterplot_Standalone](https://github.com/PrinzEugn/Scatterplot_Standalone "3D scatterplot in Unity")
 
 #### Effects / Shaders
 * [Post-processing Stack](https://github.com/Unity-Technologies/PostProcessing "Components for camera and other effects.")
@@ -134,6 +198,7 @@ Under construction.
 * [Kinoglitch](https://github.com/keijiro/KinoGlitch "Video glitch effects for Unity.")
 * [Page curl effect for Unity3D](https://github.com/Dandarawy/Unity3DBookPageCurl "Page curl effect for Unity3D Github Page")
 * [Lowpoly Water Shader](https://github.com/danielzeller/Lowpoly-Water-Unity "Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.")
+* [Unity Volume Sampler](https://github.com/MarkioE/Networker "Mesh volume sampler with voxelizer & 3D poisson disk sampling for Unity.")
 
 #### Other references
 * [Unity3D Github Page](https://github.com/Unity-Technologies "Unity3D Github Page")
@@ -146,6 +211,8 @@ Under construction.
 * [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection "A maintained collection of useful & free unity scripts / library's / plugins and extensions.")
 * [Other Github Repos](https://forum.unity.com/threads/useful-github-repos-for-unity.258224/ "Other Github Repos")
 * [More Github Repos](https://unitycoder.com/blog/2016/03/08/best-unity-github-repositories/ "More Github Repos")
+* [Unity Asset Promotion Guidelines](https://github.com/EmpireWorld/unity-asset-promotion "Unity Asset Store Package Promotion Guidelines.")
+
 
 ### Powershell
 * [Pester](https://github.com/pester/Pester "Pester Github Page")
