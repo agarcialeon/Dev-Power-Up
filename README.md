@@ -1,11 +1,55 @@
-# Educational Resources
-Under construction.
+# Dev Power-Up
+
+:construction: Under construction.
+New sections will be added in the future.
+
+## Description
+
+This repository serves as a guide to developers who want to quickly improve its skills when learning a new programming language, tool or concept in its job.
 
 ## Table of Contents
 * Android
+* CSS
+  * Frameworks
+    * Bootstrap
+    * Bulma
+* Databases
+  * MySQL
+  * SQL Server
+  * Oracle Server
+* Java
+* Javascript
+  * Frameworks
+    * Angular
+    * React
+    * Vue
+  * Libraries
+* HTML
+  * Syntax
+  * Web APIs
+* Ionic
 * .NET
+  * Platforms
+    * Web
+      * ASP.NET
+        * MVC
+        * Webforms
+        * SignalR
+    * Desktop
+      * Windows Forms
+      * WPF
+      * UWP
+  * Languages
+    * C#
+    * VB.NET
 * Unity3D
+* PHP
+  * Development Environments
 * Powershell
+* Python
+* Vagrant
+* Docker
+* ...
 
 ### Android
 
