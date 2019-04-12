@@ -120,6 +120,16 @@ This repository serves as a guide to developers who want to quickly improve its 
 * [DotNetty](https://github.com/Azure/DotNetty "A port of Netty, event-driven asynchronous network application framework.")
 * [Eto](https://github.com/picoe/Eto "Cross platform GUI framework for desktop and mobile applications in .NET.")
 
+#### WPF
+
+##### Libraries
+
+:construction
+
+##### Books
+
+:construction:
+
 ### Unity3D
 
 This section has been moved to this repository: [awesome-unity](https://github.com/agarcialeon/awesome-unity/  "Awesome Unity Github's Page")
