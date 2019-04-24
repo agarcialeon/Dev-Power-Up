@@ -120,11 +120,27 @@ This repository serves as a guide to developers who want to quickly improve its 
 * [DotNetty](https://github.com/Azure/DotNetty "A port of Netty, event-driven asynchronous network application framework.")
 * [Eto](https://github.com/picoe/Eto "Cross platform GUI framework for desktop and mobile applications in .NET.")
 
+#### Libraries
+
+* [Oxyplot](https://github.com/oxyplot/oxyplot "") - A plotting library for .NET.
+
+#### Tools
+
+* [SourceLink](https://github.com/ctaggart/SourceLink "") - Source Code On Demand 
+
+#### Extensions
+
+* [ResXResourceManager](https://github.com/tom-englert/ResXResourceManager "") - Manage localization of all ResX-Based resources in one central place.  
+
 #### WPF
 
 ##### Libraries
 
 :construction
+
+##### Tools
+
+:construction:
 
 ##### Books
 
